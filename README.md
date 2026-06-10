@@ -8,10 +8,9 @@ Connect the device to Windows and run CRL.bat, some of your system applications 
 
 In addition, several other apps will be installed on your device:
 
-1. CoolApk (com.coolapk.market, arm64 only)
-2. F-Droid Basic (org.fdroid.basic)
-3. InstallerX Revived (com.rosan.installer.x.revived)
-4. Localsend (org.localsend.localsend_app)
-5. MT Manager (bin.mt.plus)
+1. F-Droid Basic (org.fdroid.basic)
+2. InstallerX Revived (com.rosan.installer.x.revived)
+3. Localsend (org.localsend.localsend_app)
+4. MT Manager (bin.mt.plus)
 
 The included app packages are all the latest versions.

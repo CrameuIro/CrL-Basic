@@ -39,28 +39,21 @@ echo.
 echo The pre-installed apps have been replaced.
 echo.
 
-echo Installing other apps... 1/5
-echo CoolApk (com.coolapk.market, arm64 only)
-echo.
-
-adb install ../other-apks/CoolApk-arm64.apk
-
-echo.
-echo Installing other apps... 2/5
+echo Installing other apps... 1/4
 echo F-Droid Basic (org.fdroid.basic)
 echo.
 
 adb install ../other-apks/F-Droid_Basic.apk
 
 echo.
-echo Installing other apps... 3/5
+echo Installing other apps... 2/4
 echo InstallerX Revived (com.rosan.installer.x.revived)
 echo.
 
 adb install ../other-apks/InstallerX_Revived.apk
 
 echo.
-echo Installing other apps... 4/5
+echo Installing other apps... 3/4
 echo Localsend (org.localsend.localsend_app)
 echo.
 
@@ -68,7 +61,7 @@ adb install ../other-apks/LocalSend-arm32.apk
 adb install ../other-apks/LocalSend-arm64.apk
 
 echo.
-echo Installing other apps... 5/5
+echo Installing other apps... 4/4
 echo MT Manager (bin.mt.plus)
 echo.
 
