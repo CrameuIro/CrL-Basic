@@ -1,4 +1,4 @@
-**A batch tool prepared for LineageOS or LOS-based systems. **
+# A batch tool prepared for LineageOS or LOS-based systems.
 
 Connect the device to Windows and run CRL.bat, some of your system applications will be disabled and replaced with better alternatives:
 
